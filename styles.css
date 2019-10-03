@@ -1,0 +1,49 @@
+body {
+    background-image: url("images/dogPawPattern.jpg");
+}
+
+h1 {
+    text-align: center;
+    font-size: 50px;
+    font-weight: bolder;
+}
+
+h2 {
+    font: italic normal 1.4em georgia, sans-serif;
+    font-weight: bolder;
+}
+
+a:link {
+    color: fuchsia;
+}
+
+a:hover {
+    font-weight: bold;
+    color: plum;
+}
+
+.gray-paragraph {
+    background-color: slategray;
+    padding: 30px;
+    margin: 0px;
+    font: italic normal 1.4em futura, sans-serif;
+    border-style: dashed;
+}
+
+#myFooter{
+    font-size: 15px;
+    font-style: italic;
+}
+
+.centered-img {
+    border-style: solid;
+    border-color: teal;
+    border-width: 1mm;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+figcaption{
+    text-align: center;
+}
